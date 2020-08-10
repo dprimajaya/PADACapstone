@@ -1,2 +1,3 @@
 # PADACapstone
-Capstone Project - Algorithma Libra Cohort
+# This respository is replaced with PADACaps
+# Do not use this one
